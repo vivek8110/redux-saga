@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "esd",
+      "title": "ewfd"
+    },
+    {
+      "id": 2,
+      "author": "es",
+      "title": "ew"
+    },
+    {
+      "id": 3,
+      "author": "ew",
+      "title": "ewrs"
+    },
+    {
+      "author": "wrdf",
+      "title": "wfwr",
+      "id": 4
+    },
+    {
+      "author": "wrdfs",
+      "title": "wf",
+      "id": 5
+    },
+    {
+      "author": "s",
+      "title": "s",
+      "id": 6
+    },
+    {
+      "author": "s",
+      "title": "sx",
+      "id": 7
+    },
+    {
+      "author": "wdswrdfscwe",
+      "title": "wdscwredsfcrews",
+      "id": 8
+    },
+    {
+      "author": "wdswdc",
+      "title": "wdscwefdsc",
+      "id": 9
+    },
+    {
+      "author": "wdswdcweads",
+      "title": "wdscwefdscwecds",
+      "id": 10
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
